@@ -2,6 +2,8 @@
 
 This is a simple project helping you start using web notification.
 
+Visit https://tommy-iasia.github.io/web-notification-hub/ for a demonstration.
+
 ## 1. Generate VAPID
 
 You need a voluntary application server identity when using web notification.
