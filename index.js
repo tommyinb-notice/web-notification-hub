@@ -1,5 +1,5 @@
 export const publicKey =
-  "BDshZHp5hE24Bv-NFQBhIdUieOQj3VCJiAopC_CJo30RP2Q6fveT7_rKSIYRJFp-Ia_MuMiXMBNavQDfEbuqGtM";
+  "BCdb8PJY-vYmPwSOoXQYgdu6hh7ufaRgPOR6FVwMv4GnUrWj3EepKmXq9jmpD5KFALXfOv4zxfXlzZgUMmL_qGQ";
 
 (async function () {
   while (true) {
