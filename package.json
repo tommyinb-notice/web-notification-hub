@@ -4,9 +4,7 @@
   "description": "A simple hub for web notification",
   "type": "module",
   "scripts": {
-    "vapid": "node vapid.js",
-    "start": "http-server",
-    "send": "node send.js"
+    "start": "http-server"
   },
   "repository": {
     "type": "git",
